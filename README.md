@@ -1,0 +1,4 @@
+# Chatbot-NLP-project-
+### During my internship at the Ministry of Economy and Finance, I had the exciting opportunity to work on  developing a chatbot designed to answer questions related to the Department of Economic Studies and Financial Forecast (DEPF).
+To create this intelligent chatbot, I leveraged advanced technologies such as the Longchain framework, which enabled the bot to process and understand user queries efficiently. Additionally, I utilized the Pinecone database to store and manage the vast amount of data required for the chatbot's responses.
+One of the key features of the chatbot was its integration with the ChatGPT API, allowing users to have natural and interactive conversations with the bot. This integration enhanced the overall user experience and ensured that users could easily access vital information about the DEPF.
